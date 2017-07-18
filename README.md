@@ -1,7 +1,7 @@
 # This is another template for the projects
 Project NANO
 2017-07-18
-Mattia Bonazza: mattia.bonazza<at>gmail.com
+Mattia Bonazza: mattia.bonazza@gmail.com
 
 # Data origin
 My nice instsument performances
